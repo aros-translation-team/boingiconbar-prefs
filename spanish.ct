@@ -1,5 +1,5 @@
 ## version $VER: BIBPrefs.catalog 2.0 (08.01.2021)
-## language nolanguage
+## language español
 ## codeset 0
 ;
 ;
@@ -20,7 +20,7 @@ MSG_DOCK
 ; \33cDock
 ;
 MSG_ADD_DOCK
-AÃ±adir dock
+Añadir dock
 ; Add
 ;
 MSG_DEL_DOCK
@@ -36,7 +36,7 @@ MSG_PROGRAMS
 ; \33cPrograms
 ;
 MSG_ADD_P
-AÃ±adir programa
+Añadir programa
 ; Add program
 ;
 MSG_DEL_P
